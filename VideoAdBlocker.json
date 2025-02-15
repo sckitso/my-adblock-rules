@@ -1,0 +1,954 @@
+[
+    {
+        "trigger": {
+            "url-filter": ".*youtube\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*googlevideo\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*indiatoday\\.intoday\\.in.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*video\\.golem\\.de.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*s0\\.2mdn\\.net.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*cdn\\.jsdelivr\\.net.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*media\\.oadts\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*videos\\.porndig\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*dniadops\\-a\\.akamaihd\\.net.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*uptostream\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*animeflv\\..*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*wontent\\.powvideo\\.net.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*zontent\\.powvideo\\.net.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*porndoe\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*onlinevideoconverter\\..*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*prismamedia\\-com\\.videoplayerhub\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*youtube\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*googleads\\.g\\.doubleclick\\.net.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*aa\\.pornvideotop\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*pornvideotop\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*pornvideotop\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*pornvideotop\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*player\\.enetres\\.net.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*twincdn\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*mlbstatic\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*video.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*pubads\\.g\\.doubleclick\\.net.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*unpkg\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*smrmembers\\-smr\\.smartmediarep\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*src\\.litix\\.io.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*doubleclick\\.net.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*doubleclick\\.net.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*securecdn\\.videologygroup\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*genvideos\\..*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*xvideo\\.party.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*mangovideo\\..*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*mangovideo\\..*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*cdn\\.pogo\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*cloudvideo\\.tv.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*notifyvideo\\.info.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*gamovideo\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*swarm\\.video.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*turbogvideos\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*syndication\\.exosrv\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*cdn\\.arkadiumhosted\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*videorolls\\.row\\.aiv\\-cdn\\.net.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*pubads\\.g\\.doubleclick\\.net.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*video\\.bestjavporn\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*doubleclick\\.net.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*bs\\.serving\\-sys\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*player\\.clevercast\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*cdn\\.jsdelivr\\.net.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*youvideoporno\\.mobi.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": ".*imasdk\\.googleapis\\.com.*"
+        },
+        "action": {
+            "type": "block"
+        }
+    }
+]
