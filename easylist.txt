@@ -34671,7 +34671,6 @@ browsershots.org#@#.advert_area
 ||pleasantinformation.com^
 ||pleasantlyknives.com^
 ||pleasantpaltryconnections.com^
-||pleasedexample.com^
 ||pleasedprocessed.com^
 ||pleasetrack.com^
 ||pleasingrest.pro^
