@@ -1,0 +1,482 @@
+[
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "jdoqocy.com"
+    },
+    "id": 50000,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "kqzyfj.com"
+    },
+    "id": 50001,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "dpbolvw.net"
+    },
+    "id": 50002,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "tkqlhce.com"
+    },
+    "id": 50003,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "anrdoezrs.net"
+    },
+    "id": 50004,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "commission-junction.com"
+    },
+    "id": 50005,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "emjcd.com"
+    },
+    "id": 50006,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "dotomi.com"
+    },
+    "id": 50007,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "cj.com"
+    },
+    "id": 50008,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "linksynergy.com"
+    },
+    "id": 50009,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "tag.rmp.rakuten.com/117504.ct.js"
+    },
+    "id": 50010,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "pntrs.com"
+    },
+    "id": 50011,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "gopjn.com"
+    },
+    "id": 50012,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "pntra.com"
+    },
+    "id": 50013,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "pjtra.com"
+    },
+    "id": 50014,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "pjatr.com"
+    },
+    "id": 50015,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "pntrac.com"
+    },
+    "id": 50016,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "aos.prf.hn"
+    },
+    "id": 50017,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "prf.hn"
+    },
+    "id": 50018,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "rrmo.net"
+    },
+    "id": 50019,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "uqzq.net"
+    },
+    "id": 50020,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "uisv.net"
+    },
+    "id": 50021,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "jtlo.net"
+    },
+    "id": 50022,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "pxf.io"
+    },
+    "id": 50023,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "7eer.net"
+    },
+    "id": 50024,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "ojrq.net"
+    },
+    "id": 50025,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "evyy.net"
+    },
+    "id": 50026,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "sjv.io"
+    },
+    "id": 50027,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "shareasale.com"
+    },
+    "id": 50028,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "avantlink.com"
+    },
+    "id": 50029,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "awin1.com"
+    },
+    "id": 50030,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "tradedoubler.com^"
+    },
+    "id": 50031,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "t.cfjump.com"
+    },
+    "id": 50032,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "clickserve.cc-dt.com"
+    },
+    "id": 50033,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "images.revtrax.com"
+    },
+    "id": 50034,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "affiliatefuture.com"
+    },
+    "id": 50035,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "dtrk5.com"
+    },
+    "id": 50036,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "www.avantlink.ca"
+    },
+    "id": 50037,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "webgains.com"
+    },
+    "id": 50038,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "tealium.com"
+    },
+    "id": 50039,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "bluekai.com"
+    },
+    "id": 50040,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "tiqcdn.com"
+    },
+    "id": 50041,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "thebrighttag.com"
+    },
+    "id": 50042,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "ensighten.com"
+    },
+    "id": 50043,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "tealeaf.com"
+    },
+    "id": 50044,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "bluehost.com"
+    },
+    "id": 50045,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "qksrv.net"
+    },
+    "id": 50046,
+    "priority": 100
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "linkconnector.com"
+    },
+    "id": 50047,
+    "priority": 100
+  }
+]

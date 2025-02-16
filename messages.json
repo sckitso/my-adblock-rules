@@ -1,0 +1,806 @@
+{
+  "1_Coupon": {
+    "message": "1 Coupon"
+  },
+  "1_Star": {
+    "message": "1 Star"
+  },
+  "1_coupon_found_E": {
+    "message": "1 coupon found!"
+  },
+  "1_coupon_remaining": {
+    "message": "1 coupon remaining"
+  },
+  "ADBLOCKER_EXTENSION_DESCRIPTION": {
+    "message": "An ad blocker that pays you to use it!"
+  },
+  "ADBLOCKER_EXTENSION_NAME": {
+    "message": "Pie Adblock: Block Ads, Get Paid"
+  },
+  "Activate": {
+    "message": "Activate"
+  },
+  "Activate_Cash_Back": {
+    "message": "Activate Cash Back"
+  },
+  "Activate_REWARDSFIXED_Points_Back": {
+    "message": "Activate {REWARDSFIXED} Points Back"
+  },
+  "Activate_REWARDSPERCENT_Cash_Back": {
+    "message": "Activate {REWARDSPERCENT} Cash Back"
+  },
+  "Activate_Up_To_REWARDSFIXED_Points_Back": {
+    "message": "Activate up to {REWARDSFIXED} Points Back"
+  },
+  "Activate_Up_To_REWARDSPERCENT_Cash_Back": {
+    "message": "Activate Up To {REWARDSPERCENT} Cash Back"
+  },
+  "Activate_to_earn": {
+    "message": "Activate to earn"
+  },
+  "Activate_to_earn_REWARDSFIXED_Points_Back": {
+    "message": "Activate to earn {REWARDSFIXED} Points Back"
+  },
+  "Activate_to_earn_REWARDSPERCENT_Cash_Back": {
+    "message": "Activate to earn {REWARDSPERCENT} Cash Back"
+  },
+  "Activate_up_to": {
+    "message": "Activate up to"
+  },
+  "Activate_up_to_REWARDSFIXED_Points_Back": {
+    "message": "Activate up to {REWARDSFIXED} Points Back"
+  },
+  "Activated": {
+    "message": "Activated"
+  },
+  "Active": {
+    "message": "Active"
+  },
+  "Ad": {
+    "message": "Ad"
+  },
+  "Adblock_Visual_Mode": {
+    "message": "Adblock Visual Mode"
+  },
+  "Adblock_is_STATUS_on_this_site": {
+    "message": "Adblock is {STATUS} on this site"
+  },
+  "Adblock_visual_mode_description": {
+    "message": "Enable visual mode to see what Pie is blocking on each site"
+  },
+  "Adblocker_is_disabled": {
+    "message": "Adblocker is disabled"
+  },
+  "Adblocker_is_enabled": {
+    "message": "Adblocker is enabled"
+  },
+  "Adblocker_mode": {
+    "message": "Adblocker mode"
+  },
+  "Add_our_shopping_extension_to_get_50_points_instantly_and_start_earning_cash_back": {
+    "message": "Add our shopping extension to get 50 points instantly and start earning cash back."
+  },
+  "Add_to_Chrome": {
+    "message": "Add to Chrome"
+  },
+  "Ads_blocked": {
+    "message": "Ads Blocked"
+  },
+  "Allow_us_to_track_ads_blocked_and_calculate_how_much_time_youve_saved": {
+    "message": "Allow us to track how many ads have been blocked and calculate how much space you've saved. All data is anonymized and used to improve the product!"
+  },
+  "Already_Registered_Log_In": {
+    "message": "Already Registered? Log In"
+  },
+  "Always_allow": {
+    "message": "Always Allow"
+  },
+  "Always_allow_on_every_website": {
+    "message": "Always Allow on Every Website"
+  },
+  "Amazon_doesnt_have_storewide_coupons_If_a_product_has_a_working_coupon_available_well_apply_it_for_you_automatically_at_checkout": {
+    "message": "Amazon doesn't have storewide coupons. If a product has a working coupon available, we'll apply it for you automatically at checkout."
+  },
+  "And_earn_REWARDSFIXEDPOINTSBACK": {
+    "message": "And earn {REWARDSFIXEDPOINTSBACK}"
+  },
+  "And_earn_REWARDSPERCENTCASHBACK": {
+    "message": "And earn {REWARDSPERCENTCASHBACK}"
+  },
+  "And_earn_up_to_REWARDSFIXEDPOINTSBACK": {
+    "message": "And earn up to {REWARDSFIXEDPOINTSBACK}"
+  },
+  "And_earn_up_to_REWARDSPERCENTCASHBACK": {
+    "message": "And earn up to {REWARDSPERCENTCASHBACK}"
+  },
+  "Apply_Coupons": {
+    "message": "Apply Coupons"
+  },
+  "Applying_Coupon": {
+    "message": "Applying coupon"
+  },
+  "Applying_Coupons": {
+    "message": "Applying Coupons"
+  },
+  "Are_you_sure": {
+    "message": "Are you sure?"
+  },
+  "Are_you_sure_you_want_to_stop_applying_coupons": {
+    "message": "Are you sure you want to stop applying coupons?"
+  },
+  "Automatic_Coupons_on_Amazon": {
+    "message": "Automatic Coupons on Amazon"
+  },
+  "Automatic_savings_found": {
+    "message": "Automatic Savings Found"
+  },
+  "Available_Coupons": {
+    "message": "Available Coupons"
+  },
+  "Available_E": {
+    "message": "Available!"
+  },
+  "Aww_shucks": {
+    "message": "Aww, shucks."
+  },
+  "Basic_Features": {
+    "message": "Basic Features"
+  },
+  "Block_Ads": {
+    "message": "Block Ads"
+  },
+  "Block_Cookie_Consent_Popups": {
+    "message": "Block Cookie Consent Pop-ups"
+  },
+  "Block_Trackers": {
+    "message": "Block Trackers"
+  },
+  "Block_YouTube_Ads": {
+    "message": "Block YouTube Ads"
+  },
+  "Block_ads_on_most_websites": {
+    "message": "Block ads on most websites"
+  },
+  "Block_all_trackers_rewards": {
+    "message": "Block all trackers/rewards"
+  },
+  "Block_those_annoying_cookie_consent_banners": {
+    "message": "Block those annoying cookie consent banners on most websites"
+  },
+  "Boom_Youre_saving_AMOUNT": {
+    "message": "Boom! You're saving {AMOUNT}"
+  },
+  "Bug_Report": {
+    "message": "Bug Report"
+  },
+  "Cash_Back": {
+    "message": "Cash Back"
+  },
+  "Cash_Back_Available": {
+    "message": "Cash Back Available"
+  },
+  "Change_Settings": {
+    "message": "Change Settings"
+  },
+  "Changes_will_only_affect_SITEDOMAIN": {
+    "message": "Changes will only affect {SITEDOMAIN}"
+  },
+  "Choose_how_you_would_like_to_proceed": {
+    "message": "Choose how you would like to proceed:"
+  },
+  "Claim_Instant_Rewards": {
+    "message": "Claim Instant Rewards"
+  },
+  "Claim_this_offer_to_earn_and_unlock_more_ways_to_earn": {
+    "message": "Claim this offer to earn {POINTS} and unlock more ways to earn."
+  },
+  "Claim_your_first_points_on_us": {
+    "message": "Claim Your First {POINTS} Points ({VALUE}) On Us!"
+  },
+  "Classic_Mode": {
+    "message": "Classic Mode"
+  },
+  "Clean_Mode": {
+    "message": "Clean Mode"
+  },
+  "Continue_to_Checkout": {
+    "message": "Continue to Checkout"
+  },
+  "Continue_with_selection": {
+    "message": "Continue with selection"
+  },
+  "Copied": {
+    "message": "Copied!"
+  },
+  "Copy": {
+    "message": "Copy"
+  },
+  "Coupon_Detected": {
+    "message": "Coupon Detected"
+  },
+  "Coupons_Found": {
+    "message": "Coupons Found"
+  },
+  "Delete_Account": {
+    "message": "Delete Account"
+  },
+  "Did_Pie_Break_This_Website": {
+    "message": "Did Pie Break This Website?"
+  },
+  "Disable_Other_Adblockers": {
+    "message": "Disable Other Adblockers"
+  },
+  "Disable_Permanently": {
+    "message": "Disable Permanently"
+  },
+  "Dismiss": {
+    "message": "Dismiss"
+  },
+  "Dont_miss_your_chance_to_save": {
+    "message": "Don't miss your chance to save!"
+  },
+  "Dont_share": {
+    "message": "Don't share"
+  },
+  "Dont_worry_its_free": {
+    "message": "Don't worry, it's free!"
+  },
+  "E": {
+    "message": "!"
+  },
+  "EMAIL_joined_Pie": {
+    "message": "{EMAIL} joined Pie."
+  },
+  "EXTENSION_DESCRIPTION": {
+    "message": "Customize your ad experience to ensure you maximize rewards and savings while minimizing unwanted distractions."
+  },
+  "EXTENSION_NAME": {
+    "message": "Pie: Adblock & Rewards"
+  },
+  "Earn": {
+    "message": "Earn"
+  },
+  "Earn_REWARDSFIXED_Points_Back": {
+    "message": "Earn {REWARDSFIXED} Points Back"
+  },
+  "Earn_REWARDSPERCENT_Cash_Back": {
+    "message": "Earn {REWARDSPERCENT} Cash Back"
+  },
+  "Earn_Up_To_REWARDSFIXED_Points_Back": {
+    "message": "Earn up to {REWARDSFIXED} Points Back"
+  },
+  "Earn_Up_To_REWARDSPERCENT_Cash_Back": {
+    "message": "Earn up to {REWARDSPERCENT} Cash Back"
+  },
+  "Earn_rewards_for_every_ad_you_block": {
+    "message": "Earn rewards for every ad you block"
+  },
+  "Earn_rewards_just_for_clicking_to_take_a_look_around_the_store": {
+    "message": "Earn rewards just for clicking to take a look around the store."
+  },
+  "Earned": {
+    "message": "Earned"
+  },
+  "Enable_Adblock": {
+    "message": "Enable Adblock"
+  },
+  "Enhanced_pop_up_blocking": {
+    "message": "Enhanced Pop-up Blocking"
+  },
+  "Enjoy_your_new_clean_internet": {
+    "message": "Enjoy your new clean internet"
+  },
+  "Enjoying_Pie_Leave_us_a_rating": {
+    "message": "Enjoying Pie? Leave us a rating."
+  },
+  "Enter_feedback_here": {
+    "message": "Enter feedback here"
+  },
+  "Enter_your_feedback": {
+    "message": "Enter your feedback..."
+  },
+  "Estimated_Cart_Total": {
+    "message": "Estimated Cart Total"
+  },
+  "Everything_is_better_with_Pie_Join_today_to_start_earning": {
+    "message": "Everything is better with Pie. Join today to start earning."
+  },
+  "Exclusions_apply": {
+    "message": "Exclusions apply"
+  },
+  "Fair_Ads": {
+    "message": "Fair Ads"
+  },
+  "Fair_Ads_Coming_Soon": {
+    "message": "Fair Ads (Coming Soon)"
+  },
+  "Finish_setup": {
+    "message": "Finish Setup"
+  },
+  "Finishing_up": {
+    "message": "Finishing up..."
+  },
+  "Free_Premium_Features": {
+    "message": "Free Premium Features"
+  },
+  "Get_paid_to_see_a_limited_number_of_pie_approved_adds": {
+    "message": "Get paid to see a limited number of Pie-approved ads"
+  },
+  "Got_It": {
+    "message": "Got It"
+  },
+  "Help_us_improve_by_telling_us_what_happened": {
+    "message": "Help us improve by telling us what happened"
+  },
+  "Hours": {
+    "message": "Hours"
+  },
+  "I_dont_care_about_cookies_Stop_showing_me_those_damn_things": {
+    "message": "I don't care about cookies. Stop showing me those damn things."
+  },
+  "If_you_see_this_icon_fair_ads_description_long_message": {
+    "message": "If you see this icon then Pie is intentionally showing this as part of Rewards for Ads. Cash Back rewards allow you to earn generous rewards when you buy items at partnered stores. Exclusions may apply."
+  },
+  "Im_still_seeing_ads": {
+    "message": "I'm still seeing ads"
+  },
+  "In_Classic_Mode_you_wont_be_able_to_access_this_screen": {
+    "message": "In Classic Mode, you won't be able to access this screen."
+  },
+  "In_Money_Mode_youll_earn_rewards_for_every_ad_you_block": {
+    "message": "In {MONEY_MODE}, you'll earn rewards for EVERY ad you block! {TERMS_LINK}"
+  },
+  "Invite_friends": {
+    "message": "Invite friends"
+  },
+  "It_looks_like_youve_already_redeemed_intro_offer": {
+    "message": "It looks like you’ve already claimed our intro offer! Now that you’ve logged in, we’ll continue to show you new offers when available."
+  },
+  "Join_Pie_to_Unlock_Rewards": {
+    "message": "Join Pie to Unlock Rewards"
+  },
+  "Join_to_Claim_Rewards": {
+    "message": "Join to Claim Rewards"
+  },
+  "Learn_more": {
+    "message": "Learn more"
+  },
+  "Learn_more_about_Money_Mode": {
+    "message": "Learn more about Money Mode"
+  },
+  "Learn_more_about_Pie_ads_and_claim_your_first_reward": {
+    "message": "Learn more about Pie ads and claim your first reward!"
+  },
+  "Learn_more_about_Rewards_for_Ads": {
+    "message": "Learn more about Rewards for Ads"
+  },
+  "Log_in_or_Sign_up": {
+    "message": "Log in or Sign up"
+  },
+  "Looking_for_rewards_for_ads": {
+    "message": "Looking for Rewards for Ads? You must have an account to earn."
+  },
+  "Merchant_Instant_Rewards_Offer": {
+    "message": "{MERCHANT} Instant Rewards Offer"
+  },
+  "Merchant_Misses_You": {
+    "message": "{MERCHANT} Misses You!"
+  },
+  "Minutes": {
+    "message": "Minutes"
+  },
+  "Money_Mode_is_active": {
+    "message": "Money Mode is active!"
+  },
+  "NUMCOUPONS_coupons": {
+    "message": "{NUMCOUPONS} Coupons"
+  },
+  "NUMCOUPONS_coupons_available": {
+    "message": "{NUMCOUPONS} available"
+  },
+  "NUMCOUPONS_coupons_found_E": {
+    "message": "{NUMCOUPONS} coupons found!"
+  },
+  "NUMCOUPONS_coupons_remaining": {
+    "message": "{NUMCOUPONS} coupons remaining"
+  },
+  "NUMCOUPONS_more_tried_at_checkout": {
+    "message": "{NUMCOUPONS} more tried at checkout"
+  },
+  "NUM_ads_blocked": {
+    "message": "{NUM}+ ads blocked!"
+  },
+  "NUM_invites_unlocked_for_a_limited_time": {
+    "message": "{NUM} invites unlocked for a limited time: Earn bonus rewards via Money Mode for referring friends"
+  },
+  "Need_to_turn_off_adblock_on_all_sites": {
+    "message": "Need to turn off adblock on all sites?"
+  },
+  "No_Thanks_Continue_Checkout": {
+    "message": "No Thanks, Continue Checkout"
+  },
+  "No_coupons": {
+    "message": "No Coupons"
+  },
+  "Off": {
+    "message": "Off"
+  },
+  "On": {
+    "message": "On"
+  },
+  "Original_Total": {
+    "message": "Original Total"
+  },
+  "Other": {
+    "message": "Other"
+  },
+  "Other_adblockers_charge_you_for_these": {
+    "message": "Other adblockers charge you for these. Not us."
+  },
+  "POINTS_EARNED_of_POINTS_AVAILABLE_points_earned": {
+    "message": "{POINTS_EARNED} of {POINTS_AVAILABLE} points earned!"
+  },
+  "POINTS_points": {
+    "message": "{POINTS} Points"
+  },
+  "POINTSpts": {
+    "message": "{POINTS}pts"
+  },
+  "Page_Stats": {
+    "message": "Page Stats"
+  },
+  "Pie_Adblock_stats_for_this_website": {
+    "message": "Pie Adblock stats for this website"
+  },
+  "Pie_Exclusive_Coupon": {
+    "message": "Pie Exclusive Coupon"
+  },
+  "Pie_ad_blocker_just_blocked_an_affiliate_tracker": {
+    "message": "Pie Adblock just blocked an affiliate tracker."
+  },
+  "Please_let_us_know_how_we_can_improve": {
+    "message": "Please let us know how we can improve"
+  },
+  "Prevent_websites_from_spying_on_your_every_move": {
+    "message": "Prevent websites from spying on your every move."
+  },
+  "REWARDSFIXED_Points_Back": {
+    "message": "{REWARDSFIXED} Points Back"
+  },
+  "REWARDSPERCENT_Cash_Back": {
+    "message": "{REWARDSPERCENT} Cash Back"
+  },
+  "ReEnable_Permanently": {
+    "message": "Re-Enable Permanently"
+  },
+  "Remember_choice_for_this_site_and_dont_show_me_this_again": {
+    "message": "Remember choice for this site and don't show me this again"
+  },
+  "Report_Bug": {
+    "message": "Report Bug"
+  },
+  "Report_Issue": {
+    "message": "Report Issue"
+  },
+  "Request_Merchant": {
+    "message": "Request Merchant"
+  },
+  "Requires_an_account": {
+    "message": "Requires an account"
+  },
+  "Requires_purchase": {
+    "message": "Requires purchase"
+  },
+  "Rewards": {
+    "message": "Rewards"
+  },
+  "Rewards_Locked": {
+    "message": "Rewards Locked"
+  },
+  "Rewards_activated": {
+    "message": "Rewards Activated"
+  },
+  "Rewards_found_E": {
+    "message": "Rewards found!"
+  },
+  "SAVINGS_off": {
+    "message": "{SAVINGS} off"
+  },
+  "SHOPPING_EXTENSION_DESCRIPTION": {
+    "message": "Pie Shopping is the fastest way to save money while shopping online with one-click cash back & auto-applied coupons at checkout!"
+  },
+  "SHOPPING_EXTENSION_NAME": {
+    "message": "Pie Shopping: Cash Back and Coupons"
+  },
+  "STARCOUNT_Stars": {
+    "message": "{STARCOUNT} Stars"
+  },
+  "Sad_Pie": {
+    "message": "Sad Pie"
+  },
+  "Savings": {
+    "message": "Savings"
+  },
+  "Seconds": {
+    "message": "Seconds"
+  },
+  "See_ads_get_removed": {
+    "message": "See ads get removed"
+  },
+  "Settings": {
+    "message": "Settings"
+  },
+  "Share": {
+    "message": "Share"
+  },
+  "Share_with_the_community": {
+    "message": "Share with the community?"
+  },
+  "Share_with_up_to_NUM_friends_in_the_next_HOURS_to_activate_money_mode_and_earn_up_to_POINTS": {
+    "message": "Share with up to {NUM_FRIENDS} friends in the next {HOURS} hours to activate {MONEY_MODE} and earn up to {POINTS} points {DOLLAR_AMOUNT}! {TERMS_LINK}"
+  },
+  "Share_with_up_to_NUM_friends_in_the_next_HOURS_to_activate_money_mode_for_each_friend_you_refer_up_to_POINTS": {
+    "message": "Share with up to {NUM_FRIENDS} friends in the next {HOURS} hours to activate {MONEY_MODE} for each friend you refer, up to {POINTS} points {DOLLAR_AMOUNT}!"
+  },
+  "Show_Again": {
+    "message": "Show Again"
+  },
+  "Sign_Out": {
+    "message": "Sign Out"
+  },
+  "Sign_into_Amazon_to_Continue": {
+    "message": "Sign into Amazon to Continue"
+  },
+  "Sign_up_for_Pie_to_earn_rewards_Its_free": {
+    "message": "Sign up for Pie to earn rewards! It's free."
+  },
+  "Simple_Mode": {
+    "message": "Simple Mode"
+  },
+  "Site_told_me_to_disable_adblock": {
+    "message": "Site told me to disable adblock"
+  },
+  "Site_wouldnt_load_correctly": {
+    "message": "Site wouldn't load correctly"
+  },
+  "Snooze_Pie_ads": {
+    "message": "Snooze Pie Ads"
+  },
+  "Snooze_this_ad": {
+    "message": "Snooze this ad"
+  },
+  "Snoozed_for_COUNT_hours": {
+    "message": "Snoozed for {COUNT} hours"
+  },
+  "Something_Went_Wrong": {
+    "message": "Something Went wrong"
+  },
+  "Space_saved_with_VISUALMODE": {
+    "message": "Space saved with {VISUALMODE}"
+  },
+  "Sponsored_video": {
+    "message": "Sponsored video"
+  },
+  "Submit": {
+    "message": "Submit"
+  },
+  "Success": {
+    "message": "Success"
+  },
+  "Tap_ALWAYS_ALLOW": {
+    "message": "Tap {ALWAYS_ALLOW}"
+  },
+  "Tap_ALWAYS_ALLOW_ON_EVERY_WEBSITE": {
+    "message": "Tap {ALWAYS_ALLOW_ON_EVERY_WEBSITE}"
+  },
+  "Tap_FINISH_SETUP_below": {
+    "message": "Tap {FINISH_SETUP} below"
+  },
+  "Tell_us_what_happened": {
+    "message": "Tell us what happened"
+  },
+  "Thank_You_E": {
+    "message": "Thank You!"
+  },
+  "Thank_you_for_your_feedback": {
+    "message": "Thank you for your feedback."
+  },
+  "Thanks_for_using_Money_Mode": {
+    "message": "Thanks for using Money Mode!"
+  },
+  "Thanks_for_your_feedback": {
+    "message": "Thanks for your feedback!"
+  },
+  "Theyd_like_to_pay_you_to_have_another_look_around": {
+    "message": "They'd like to pay you to have another look around the store."
+  },
+  "Thinking_of_breaking_up_with_our_automatic_coupons_and_adblocker_If_youre_set_on_leaving_you_can_delete_your_account_Well_definitely_miss_you_but_we_respect_your_choice_Just_remember_deleting_your_account_is_irreversible": {
+    "message": "Thinking of breaking up with our automatic coupons and adblocker? If you're set on leaving, you can delete your account. We'll definitely miss you, but we respect your choice. Just remember, deleting your account is irreversible."
+  },
+  "This_Is_A_Pie_Offer": {
+    "message": "This Is A Pie Offer"
+  },
+  "This_creator_is_part_of_the_Pie_Creator_Network_You_are_receiving_rewards_for_seeing_this_video": {
+    "message": "This creator is part of the Pie Creator Network. You are receiving rewards for seeing this video."
+  },
+  "This_website_is_not_a_supported_merchant_If_its_a_store_request_it_below": {
+    "message": "This website is not a supported merchant. If it's a store, request it below."
+  },
+  "Total_ads_blocked": {
+    "message": "Total ads blocked"
+  },
+  "Track_Ads": {
+    "message": "Track Ads"
+  },
+  "Try_Later": {
+    "message": "Try Later"
+  },
+  "Try_Pie_Shopping": {
+    "message": "Try Pie Shopping"
+  },
+  "Try_this_search_on_MERCHANT": {
+    "message": "Try this search on {MERCHANT}"
+  },
+  "Turbo_Apply": {
+    "message": "Turbo Apply"
+  },
+  "Uh_oh_it_looks_like_your_cart_price_may_have_increased_Sometimes_this_happens_when_you_already_had_a_coupon_applied_Try_reapplying_your_original_coupon_or_running_Pie_again": {
+    "message": "Uh oh, it looks like your cart price may have increased. Sometimes this happens when you already had a coupon applied. Try reapplying your original coupon or running Pie again."
+  },
+  "Unlock_Money_Mode": {
+    "message": "Unlock Money Mode!"
+  },
+  "Unlock_Rewards": {
+    "message": "Unlock Rewards"
+  },
+  "Use_detected_REWARDSPROGRAM_rewards": {
+    "message": "Use existing {REWARDSPROGRAM} rewards"
+  },
+  "Use_detected_tracker": {
+    "message": "Use existing tracker"
+  },
+  "Use_existing_tracker": {
+    "message": "Use existing tracker"
+  },
+  "Visual_Mode": {
+    "message": "Visual Mode"
+  },
+  "Visual_space_saved": {
+    "message": "Visual space saved"
+  },
+  "Want_even_more_ways_to_earn": {
+    "message": "Want even more ways to earn?"
+  },
+  "We_detected_that_this_video_includes_a_paid_promotion_This_is_part_of_the_creators_video_andd_is_not_technically_an_ad_served_up_by_YouTube_so_we_are_unable_to_block_it_You_can_report_this_video_via_the_bug_report_form_if_there_are_other_issues": {
+    "message": "We detected that this video includes a paid promotion. This is part of the creator's video and is not technically an ad served up by YouTube, so we are unable to block it. You can report this video via the bug report form if there are other issues."
+  },
+  "We_need_your_permission": {
+    "message": "We need your permission"
+  },
+  "We_saved_you_a_click_were_not_miracle_workers_Enjoy_SAVINGS": {
+    "message": "We saved you a click, we're not miracle workers. Enjoy {SAVINGS}!"
+  },
+  "We_showed_you_the_visual_mode": {
+    "message": "We showed you the {VISUALMODE} for your first experience but we’ll load your pages ad-free from here on out. You can turn this back on at any time!"
+  },
+  "We_tried_all_available_codes_Check_out_knowing_you_have_the_best_price_we_could_find": {
+    "message": "We tried all available codes. Check out knowing you have the best price we could find."
+  },
+  "We_tried_all_available_codes_but_well_still_hook_you_up_with_rewards_on_qualifying_purchases": {
+    "message": "We tried all available codes, but we'll still hook you up with rewards on qualifying purchases."
+  },
+  "We_use_toptier_adblock_lists_that_are_constantly_updated_to_make_sure_you_get_as_pure_an_internet_experience_possible": {
+    "message": "We use top-tier adblock lists that are constantly updated to make sure you get as pure an internet experience possible."
+  },
+  "Welcome_Back": {
+    "message": "Welcome back!"
+  },
+  "Welcome_To_Pie": {
+    "message": "Welcome to Pie!"
+  },
+  "Well_automatically_apply_coupons_instantly": {
+    "message": "We'll automatically apply coupons instantly!"
+  },
+  "Well_automatically_close_annoying_anti_adblock_popups": {
+    "message": "We'll automatically close annoying anti-adblock popups the best we can"
+  },
+  "Well_do_our_best_to_stop_those_pesky_YouTube_ads_Note_Sometimes_this_may_trigger_YouTubes_adblock_detection": {
+    "message": "We'll do our best to stop those pesky YouTube ads. Note: Sometimes, this may trigger YouTube's adblock detection."
+  },
+  "Well_remove_ads_before": {
+    "message": "We'll remove ads before the page loads"
+  },
+  "When_you_earn_rewards_we_need_to_be_able_to_attach_them_to_your_account": {
+    "message": "When you earn rewards, we need to be able to attach them to your account, otherwise we won't know that they belong to you."
+  },
+  "Whoa_thats_a_new_coupon": {
+    "message": "Whoa, that's a new coupon! If it's not just for you or a one-time deal, why not share the love? Add it to the Pie community and spread the savings!"
+  },
+  "Yes_Delete_Account": {
+    "message": "Yes, Delete Account"
+  },
+  "You_can_reenable_Visual_Mode_at_any_time_on_the_settings_page": {
+    "message": "You can re-enable Visual Mode at any time on the settings page."
+  },
+  "You_got_the_best_price_E": {
+    "message": "You got the best price!"
+  },
+  "You_just_blocked_your_NUM_ad_How_about_leaving_us_a_review": {
+    "message": "You just blocked your {NUM}th ad! How about leaving us a review?"
+  },
+  "You_just_blocked_your_NUM_ad_Refer_Pie_to_friends_to_unlock_money_mode": {
+    "message": "You just blocked your {NUM}th ad! Refer Pie to friends to unlock {MONEY_MODE}."
+  },
+  "You_just_earned": {
+    "message": "You just earned"
+  },
+  "Youll_earn_REWARDSPERCENTCASHBACK": {
+    "message": "You'll earn {REWARDSPERCENTCASHBACK}"
+  },
+  "Youll_earn_up_to_REWARDSFIXEDPOINTSBACK": {
+    "message": "You'll earn up to {REWARDSFIXEDPOINTSBACK}"
+  },
+  "Youll_earn_up_to_REWARDSPERCENTCASHBACK": {
+    "message": "You'll earn up to {REWARDSPERCENTCASHBACK}"
+  },
+  "Youll_still_earn_REWARDSPERCENTCASHBACK": {
+    "message": "You'll still earn {REWARDSPERCENTCASHBACK}"
+  },
+  "Youll_still_earn_up_to_REWARDSFIXEDPOINTSBACK": {
+    "message": "You'll still earn up to {REWARDSFIXEDPOINTSBACK}"
+  },
+  "Youll_still_earn_up_to_REWARDSPERCENTCASHBACK": {
+    "message": "You'll still earn up to {REWARDSPERCENTCASHBACK}"
+  },
+  "Your_referral_link": {
+    "message": "Your referral link"
+  },
+  "Youre_Missing_Out_On_Rewards": {
+    "message": "You're Missing Out On Rewards"
+  },
+  "Youve_already_claimed_this_offer": {
+    "message": "You've already claimed this offer."
+  },
+  "and_earn_REWARDSFIXEDPOINTSBACK": {
+    "message": "and earn {REWARDSFIXEDPOINTSBACK}"
+  },
+  "and_earn_REWARDSPERCENTCASHBACK": {
+    "message": "and earn {REWARDSPERCENTCASHBACK}"
+  },
+  "and_earn_up_to_REWARDSFIXEDPOINTSBACK": {
+    "message": "and earn up to {REWARDSFIXEDPOINTSBACK}"
+  },
+  "and_earn_up_to_REWARDSPERCENTCASHBACK": {
+    "message": "and earn up to {REWARDSPERCENTCASHBACK}"
+  },
+  "enabled": {
+    "message": "enabled"
+  },
+  "exclusions_apply": {
+    "message": "exclusions apply"
+  },
+  "in_Pie_Rewards": {
+    "message": "in Pie Rewards"
+  },
+  "in_order_to_automatically_apply_coupons_and_activate_rewards": {
+    "message": "in order to automatically apply coupons and activate rewards"
+  },
+  "paused": {
+    "message": "paused"
+  },
+  "space_saved": {
+    "message": "space saved!"
+  },
+  "temporarily_enabled": {
+    "message": "temporarily enabled"
+  },
+  "up_to": {
+    "message": "up to"
+  },
+  "youll_earn_REWARDSFIXEDPOINTSBACK": {
+    "message": "You'll earn {REWARDSFIXEDPOINTSBACK}"
+  },
+  "youll_still_earn_REWARDSFIXEDPOINTSBACK": {
+    "message": "You'll still earn {REWARDSFIXEDPOINTSBACK}"
+  }
+}
